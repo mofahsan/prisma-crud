@@ -1,3 +1,5 @@
+# This repo was created for me to get familiar with prisma and docker
+
 Docker toolbox 
 
 
